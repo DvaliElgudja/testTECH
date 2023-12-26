@@ -24,4 +24,11 @@ describe('charGenerator', () => {
         const expectedOutput = ['$','$%','$%&','$&','%','%&','&'];
         expect(charGenerator(prefixes)).toEqual(expectedOutput);
     });
+
+    it('', () => {
+        const prefixes = ['$', '%', '&'];
+        const expectedOutput = ['$','$%','$%&','$&','%','%&','&'];
+        expect(charGenerator(prefixes)).toEqual(expectedOutput);
+    });
+
 });
