@@ -1,4 +1,4 @@
-//Je n'ai pas souvent utiliser les test Unitaires, ce code a etait disponible sur plusieur sources.
+//Je n'ai pas souvent utilisé les test unitaires, ce code a etait disponible sur plusieur sources.
 
 
 // This installs jest and ts-jest, TypeScript (if you don't have it yet), and type definitions for jest so TypeScript knows what's available.
@@ -13,6 +13,6 @@ module.exports = {
 
 //sources:
 
-// https://github.com/vercel/next.js/issues/8663
+//  https://github.com/vercel/next.js/issues/8663
 
 //  https://medium.com/@jelena.durovic/how-to-configure-jest-with-typescript-fe034ad7d6c2
